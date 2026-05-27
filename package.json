@@ -1,0 +1,24 @@
+{
+  "name": "firebase-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvntran1310/firebase-authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvntran1310/firebase-authentication/issues"
+  },
+  "homepage": "https://github.com/tvntran1310/firebase-authentication#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
